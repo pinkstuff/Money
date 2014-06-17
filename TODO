@@ -1,0 +1,23 @@
+doc strings
+
+CamelCase for class names
+
+tab delimiters are a pain
+
+think about public, _private atributes in python. Keep as self contained engine!!
+
+have another look at typemap
+
+class methods for parsers
+
+should fromSantander be this long?????
+
+ALWAYS COMMENT REGEX give example of match
+
+Mock - unit test!!
+
+database, try expect and error handling
+
+double check commits (do we need begins?)
+
+put database in own class!!! 
